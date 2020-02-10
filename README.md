@@ -13,7 +13,7 @@ matplotlib 2.1.0
 ## Installation ##
 >
     $ cd 2DConvolution
-    $ pip3 install requirements.txt
+    $ pip3 install -r requirements.txt
 
 
 ### Data Visualization using Matplotlib
