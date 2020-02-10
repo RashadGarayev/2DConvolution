@@ -1,4 +1,4 @@
-# Convolution with Python
+# Convolution with Python(numpy and scikit-image)
 
 
 To show objects distinctly using the deep learning which is the actively using for last years. In this subject I have tried to show how to apply functions , passing through active functions. In the near future, we will gain in-depth knowledge of the results we have obtained in addition to these codes by developing an artificial neural network with a numpy library
