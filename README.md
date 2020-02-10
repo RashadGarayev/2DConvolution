@@ -12,7 +12,7 @@ matplotlib 2.1.0
 
 ## Installation ##
 >
-    $ cd ConvImage
+    $ cd 2DConvolution
     $ pip3 install requirements.txt
 
 
