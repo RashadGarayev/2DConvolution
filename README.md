@@ -51,4 +51,5 @@ matplotlib 2.1.0
 ## Reference
 
 * http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf
+* https://en.wikipedia.org/wiki/Kernel_(image_processing)
  
